@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-03-07 18:24:19,https://iptv.catvod.com/live.php?id=CCTV1&line=16$订阅源
+2026-03-09 18:46:02,https://iptv.catvod.com/live.php?id=CCTV1&line=16$订阅源
 
 📺央视频道,#genre#
 CCTV-1,https://iptv.catvod.com/live.php?id=CCTV1&line=16$订阅源
@@ -9,7 +9,8 @@ CCTV-1,http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009$订阅
 CCTV-2,https://iptv.catvod.com/live.php?id=CCTV2&line=10$订阅源
 CCTV-2,http://74.91.26.218:82/live/cctv2hd.m3u8$订阅源
 CCTV-2,http://74.91.26.218:82/live/cctv2hd.m3u8$订阅源
-CCTV-2,http://38.75.136.137:98/gslb/dsdqbv/cctv2hd.m3u8?auth=test20251009$订阅源
+CCTV-2,http://222.214.208.34:59901/tsfile/live/0002_1.m3u8$订阅源
+CCTV-2,http://222.214.208.34:59901/tsfile/live/0002_1.m3u8$订阅源
 CCTV-3,https://iptv.catvod.com/live.php?id=CCTV3&line=1$订阅源
 CCTV-3,http://38.75.136.137:98/gslb/dsdqca/cctv3hd.m3u8?auth=test20251009$订阅源
 CCTV-4,https://iptv.catvod.com/live.php?id=CCTV4&line=12$订阅源
@@ -17,17 +18,20 @@ CCTV-4,http://74.91.26.218:82/live/cctv4hd.m3u8$订阅源
 CCTV-4,http://38.75.136.137:98/gslb/dsdqbv/cctv4hd.m3u8?auth=test20251009$订阅源
 CCTV-5,https://iptv.catvod.com/live.php?id=CCTV5&line=11$订阅源
 CCTV-5,http://74.91.26.218:82/live/cctv5hd.m3u8$订阅源
-CCTV-5,http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub$订阅源
+CCTV-5,http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009$订阅源
 CCTV-5+,https://iptv.catvod.com/live.php?id=CCTV5%2B&line=1$订阅源
 CCTV-5+,http://74.91.26.218:82/live/cctv5p.m3u8$订阅源
 CCTV-5+,http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009$订阅源
 CCTV-6,https://iptv.catvod.com/live.php?id=CCTV6&line=10$订阅源
 CCTV-6,http://74.91.26.218:82/live/cctv6hd.m3u8$订阅源
 CCTV-6,http://38.75.136.137:98/gslb/dsdqbv/cctv6hd.m3u8?auth=test20251009$订阅源
+CCTV-7,http://38.75.136.137:98/gslb/dsdqbv/cctv7hd.m3u8?auth=test20251009$订阅源
 CCTV-7,https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv7_1_td.m3u8$订阅源
 CCTV-7,https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv7_1_td.m3u8$订阅源
 CCTV-8,http://74.91.26.218:82/live/cctv8hd.m3u8$订阅源
+CCTV-8,http://38.75.136.137:98/gslb/dsdqbv/cctv8hd.m3u8?auth=test20251009$订阅源
 CCTV-9,http://74.91.26.218:82/live/cctv9hd.m3u8$订阅源
+CCTV-9,http://38.75.136.137:98/gslb/dsdqbv/cctv9hd.m3u8?auth=test20251009$订阅源
 CCTV-10,http://74.91.26.218:82/live/cctv10hd.m3u8$订阅源
 CCTV-10,http://38.75.136.137:98/gslb/dsdqca/cctv10hd.m3u8?auth=test20251009$订阅源
 CCTV-11,http://74.91.26.218:82/live/cctv11hd.m3u8$订阅源
@@ -38,7 +42,6 @@ CCTV-12,http://74.91.26.218:82/live/cctv12hd.m3u8$订阅源
 CCTV-12,http://38.75.136.137:98/gslb/dsdqca/cctv12hd.m3u8?auth=test20251009$订阅源
 CCTV-12,http://183.220.107.138:4022/rtp/239.11.0.113:5140$订阅源
 CCTV-13,http://74.91.26.218:82/live/cctv13hd.m3u8$订阅源
-CCTV-13,http://38.75.136.137:98/gslb/dsdqbv/cctv13hd.m3u8?auth=test20251009$订阅源
 CCTV-13,http://183.220.107.138:4022/rtp/239.11.0.24:5140$订阅源
 CCTV-14,http://74.91.26.218:82/live/cctv14hd.m3u8$订阅源
 CCTV-14,http://38.75.136.137:98/gslb/dsdqca/chcdzdyhd.m3u8?auth=test20251009$订阅源
@@ -50,9 +53,7 @@ CCTV-16,http://38.75.136.137:98/gslb/dsdqca/chcjtyyhd.m3u8?auth=test20251009$订
 CCTV-17,http://74.91.26.218:82/live/cctv17hd.m3u8$订阅源
 CCTV-17,http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009$订阅源
 CCTV-17,http://183.220.107.138:4022/rtp/239.11.0.107:5140$订阅源
-CETV-1,https://iptv.catvod.com/live.php?id=CETV1&line=1$订阅源
 CETV-1,http://183.220.107.138:4022/rtp/239.11.0.139:5140$订阅源
-CETV-2,https://iptv.catvod.com/live.php?id=CETV2&line=1$订阅源
 CETV-2,http://183.220.107.138:4022/rtp/239.11.0.246:5140$订阅源
 CETV-3,http://183.220.107.138:4022/rtp/239.11.0.247:5140$订阅源
 
@@ -79,9 +80,9 @@ CETV-3,http://183.220.107.138:4022/rtp/239.11.0.247:5140$订阅源
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8$订阅源
 凤凰香港,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUWdJdT-WvPAhPYAjqDDKUkn8SJteYZ9uqzUO6nYtuUh6F-PN7bfjcRGaPw6WlGqRJXDBhEndnIu4j9XCk2jMbsgXqcdc5EoIBXfD7zolJBsvKapI6zL3TY0miLmlXbN6s1HL9nbhZ_-YYylQavg8fyJuokqsa-c_dYoVldu95ImgqU0t9mxSaKem7IJRiBJmz9a_295GFeFQ89c_Ubo4Q9g.m3u8?u=1756878715$订阅源
 凤凰香港,http://pull-vivek.speedws.com/live/aaafhxg.flv$订阅源
+TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8$订阅源
+TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8$订阅源
 TVBS亚洲,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHDLZFgMGrsS9MQBaljSY5ze7PkYyODKOsGH88jm3pAJ4ZaDlNwW_v4I2CTeEShoea8RcJA9dBdPhQwiLHCV9PJ-gD2pZvr3e6jFppV7KMxnn8VjoBC7MsO9uyiJS_9UkXAC6TNse9Infr_m7H3oTMwjJFrtSopA63a5gvIme8AfmPwCMDC_TVWehUTyLn0TcHQA5K_D0JPCPjoqyjqgaFQ.m3u8?u=1756878715$订阅源
-TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8$订阅源
-TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8$订阅源
 纬来体育,rtmp://f13h.mine.nu:1935/sat/tv721$订阅源
 纬来体育,rtmp://60.248.77.83/sat/tv721$订阅源
 纬来体育,rtmp://9hv9.mine.nu/sat/tv721.flv$订阅源
@@ -91,8 +92,8 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8$订阅源
 三立台湾,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHWMHCytb2VBItbRCwo0Lyk_bgvynoks0SJDnLN4CmXc_Ph60csuAp6s8D-jOpyhneWu9PyXlnq4zmHkKe6SaaD8MDmus4XtV25_a4J5Nf689R2uM9deDWtKl-KdUahWIG340ihT8YFmCOF-c9T7S-OxX8f8zQx0rLt0lK2RW2C_W-DkxBnLt7n06iBCJ_3ayH_DHrGZxg1THdn9djYM7UQ.m3u8?u=1756878715$订阅源
 三立新闻,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHWMHCytb2VBItbRCwo0LyrstjQwK1Qvfz8BPfBQJN13fqLIyX3q6w-21eR56d6OFJ8YfJ5IsyEV_zykMQXXgbIpFD9JwVVae3gfG-gGSCWOFcDsjWFXW_cdGNZ811RKVB-u7cP6qC8X4-YMKEKjQ7vUscFg9GN9cGC8IGO7HAW6jNOHzCh0VC0UAP1Llafvd1tl8Csp9inhyfakk6C9x9g.m3u8?u=1756878715$订阅源
 东森综合,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHWMHCytb2VBItbRCwo0LyqP7JL5zoJwS4YNNznemr_YdtSKhh6NNAwR9PzzP461sjhlssLp3lK6UJ8-tnuwG8CbBxKI1dg3OfG2PGsVIQaseJXA6DBTaS0MuVPFR_aOdPVW3LH5YhV9dtBSNyWyJZiz6NyMdgyeWK4kjvnkBH2wPAT52wt91Db438hm8mDpNXQRutSpHIsBlvrQktzdyMg.m3u8?u=1756878715$订阅源
-东森超视,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHWMHCytb2VBItbRCwo0Lylo8KUJQTw1XM1IsXqjJnCxGXLXhrak82yhR8-9Wjyp9Jv3dZZvl6rvdTktEA2MYUd10pSrYSPnc8hHXs4J-aTh66eb712HSAUMkxcK0pUyO3bxG7rVxjU34m9a8Hm_FIYUYPNK8SbDa6K25k5-H2esS87XxkHjgfg9u2-1NH6z-rAXzr38rHUrVSVVJaT81Cg.m3u8?u=1756878715$订阅源
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8$LR•IPV4『线路1』
+东森超视,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHWMHCytb2VBItbRCwo0Lylo8KUJQTw1XM1IsXqjJnCxGXLXhrak82yhR8-9Wjyp9Jv3dZZvl6rvdTktEA2MYUd10pSrYSPnc8hHXs4J-aTh66eb712HSAUMkxcK0pUyO3bxG7rVxjU34m9a8Hm_FIYUYPNK8SbDa6K25k5-H2esS87XxkHjgfg9u2-1NH6z-rAXzr38rHUrVSVVJaT81Cg.m3u8?u=1756878715$订阅源
 东森电影,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHWMHCytb2VBItbRCwo0LykwxMoUHpMM_iP4852Z3fkyk8zLr_cHdtRNfGHcdy6CBHw-Gsla_fUeSZd5w4Wac0uJflUo3jPx-syZub8WoZXN8RiuExRGYFHshahLkcavYsTA0xVX1vv5-7vKJhs-n7zwpfIB1QcisXHnKxS0kd5Hze8xeJra-LdG_RCTOfdFcvx03TGauO_eJLMAVKIyz9Q.m3u8?u=1756878715$订阅源
 Now剧集,http://pullpackage.alivecdn.com/live/B9AKX0X3gSWZVv91H6UZDdsYyM8Fie9HvmJFzg3XN8JiR27kog.flv$订阅源
 Now剧集,http://pullpackage.alivecdn.com/live/B9AKX0X3gSWZVv91H6UZDdsYyM8Fie9HvmJFzg3XN8JiR27kog.flv$订阅源
@@ -128,15 +129,15 @@ IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140$订阅源
 东森洋片,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHWMHCytb2VBItbRCwo0LyueGr-6I5WurXyVzCPErAn1bIY0Xo0oD4WTTmWvbwk0WlRLAiSKjvvk1qlTgn_rvKqmndIlkvXOsgb2pLGqYWlBY4bum9lzyFDqrQV09sm9mH8Norh0gOkpeKmnKhs7l0EGvOTpy8B5LkIDy-zcVjSoBzBiSy2SqAL9FF4LqSM_pIZGYBuWkuHd68RQGk25yig.m3u8?u=1756878715$订阅源
 东森洋片,http://fbd48279.ott.oxtvs.com/ott/?q=9222549520c295e029ec6ff9d9f66695&id=5454$订阅源
 东森洋片,http://pullpackage.alivecdn.com/live/kik9tNVo2R9KMDD687bFX3vtLMD4Lwg69y94g8XKH40P1BOa5U.flv$订阅源
-东森超视,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHWMHCytb2VBItbRCwo0Lylo8KUJQTw1XM1IsXqjJnCxGXLXhrak82yhR8-9Wjyp9Jv3dZZvl6rvdTktEA2MYUd10pSrYSPnc8hHXs4J-aTh66eb712HSAUMkxcK0pUyO3bxG7rVxjU34m9a8Hm_FIYUYPNK8SbDa6K25k5-H2esS87XxkHjgfg9u2-1NH6z-rAXzr38rHUrVSVVJaT81Cg.m3u8?u=1756878715$订阅源
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8$LR•IPV4『线路1』
+东森超视,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHWMHCytb2VBItbRCwo0Lylo8KUJQTw1XM1IsXqjJnCxGXLXhrak82yhR8-9Wjyp9Jv3dZZvl6rvdTktEA2MYUd10pSrYSPnc8hHXs4J-aTh66eb712HSAUMkxcK0pUyO3bxG7rVxjU34m9a8Hm_FIYUYPNK8SbDa6K25k5-H2esS87XxkHjgfg9u2-1NH6z-rAXzr38rHUrVSVVJaT81Cg.m3u8?u=1756878715$订阅源
 
 🎥咪咕直播,#genre#
 
 🏀体育频道,#genre#
 CCTV-5,https://iptv.catvod.com/live.php?id=CCTV5&line=11$订阅源
 CCTV-5,http://74.91.26.218:82/live/cctv5hd.m3u8$订阅源
-CCTV-5,http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub$订阅源
+CCTV-5,http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009$订阅源
 CCTV-5+,https://iptv.catvod.com/live.php?id=CCTV5%2B&line=1$订阅源
 CCTV-5+,http://74.91.26.218:82/live/cctv5p.m3u8$订阅源
 CCTV-5+,http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009$订阅源
